@@ -2,16 +2,20 @@
 This Python script demonstrates how to detect motion in real-time using OpenCV. The script captures frames from the default webcam, processes them to detect motion, and draws bounding boxes around the detected moving objects.
 
 ## Requirements
-- OpenCV: Install OpenCV using pip install opencv-python
-- NumPy: Install NumPy using pip install numpy
+- **OpenCV**: Install OpenCV using pip install opencv-python
+- **NumPy**: Install NumPy using pip install numpy
 
 ## Usage
 **Clone the Repository:**
+
 $ Bash
+
 $ git clone https://github.com/Ansh420/motion-detection-opencv.git
 
 **Run the Script:**
+
 $ Bash
+
 $ python motion_detection.py
 
 # **Explanation**
