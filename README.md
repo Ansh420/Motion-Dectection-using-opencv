@@ -1,6 +1,6 @@
 
 ![images](https://github.com/user-attachments/assets/202b93de-8bdd-4861-bc6a-9c5a6c25ee6e)
-# **Motion-Dectection-using-opencv**
+# Motion-Dectection-using-opencv
 This Python script demonstrates how to detect motion in real-time using OpenCV. The script captures frames from the default webcam, processes them to detect motion, and draws bounding boxes around the detected moving objects.
 
 ## Requirements
