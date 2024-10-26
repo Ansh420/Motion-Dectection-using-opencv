@@ -12,7 +12,7 @@ This Python script demonstrates how to detect motion in real-time using OpenCV. 
 
 $ Bash
 
-$ git clone https://github.com/Ansh420/motion-detection-opencv.git
+git clone **https://github.com/Ansh420/motion-detection-opencv.git**
 
 **Run the Script:**
 
