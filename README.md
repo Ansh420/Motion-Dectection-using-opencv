@@ -31,7 +31,7 @@ The script follows these steps:
 - **Draw Bounding Boxes**: Draws bounding boxes around the detected contours.
 - **Display Frame**: Displays the processed frame with the bounding boxes.
 # Customization
-- **Background Subtractor**: Experiment with different background subtractor algorithms (e.g., KNN, GMG) to find the best performance for your use case.
+- **Background Subtractor**: Experiment with different background subtractor algorithms **(e.g., KNN, GMG)** to find the best performance for your use case.
 - **Thresholding**: Adjust the threshold parameter in the background subtractor to control the sensitivity of motion detection.
 - **Contour Filtering**: Implement additional filtering techniques (e.g., area, shape) to refine the detected contours.
 - **Multiple Cameras**: Modify the script to capture frames from multiple webcams.
