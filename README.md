@@ -25,7 +25,7 @@ The script follows these steps:
 - **Read Frames**: Continuously reads frames from the webcam.
 - **Convert to Grayscale**: Converts the captured frames to grayscale for faster processing.
 - **Blur**: Applies Gaussian blurring to reduce noise in the image.
-- **Create Background Subtractor**: Initializes a background subtractor algorithm (e.g., MOG2) to learn the background scene.
+- **Create Background Subtractor**: Initializes a background subtractor algorithm **(e.g., MOG2)** to learn the background scene.
 - **Detect Motion**: Uses the background subtractor to detect moving objects in the current frame.
 - **Find Contours**: Finds contours in the detected motion mask.
 - **Draw Bounding Boxes**: Draws bounding boxes around the detected contours.
